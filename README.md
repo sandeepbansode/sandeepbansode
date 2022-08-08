@@ -8,7 +8,7 @@
 
 - Data Scientist at .
 
-- B.E. Mechanical Engineering from **MMIT** from Pune (SPPU) University.
+- B.E. Mechanical Engineering from **MMIT**,Pune (SPPU) University.
 
 - 🔭 I’m currently working on **Data Science, Machine Learning projects.**
 
